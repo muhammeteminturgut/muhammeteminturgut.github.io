@@ -5,7 +5,7 @@ description: >
   Powerful, Multi Engine, Multi Platform Speech Recognition
 lang: en-US
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+#baseurl: "/" # the subpath of your site, e.g. /blog/
 url: http://dictater.me # the base hostname & protocol for your site
 git_address: https://github.com/muhammeteminturgut/Dictater
 
