@@ -1,1 +1,0 @@
-# muhammeteminturgut.github.io
