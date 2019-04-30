@@ -9,10 +9,11 @@ Our worldwide customers can purchase Dictater for **$ 40***.
 
 ### [**Buy Now!**](https://iyzi.link/AAqZ_g)
 
-![enter image description here](https://iyzi.link/images/mastercard.svg)![enter image description here](https://iyzi.link/images/visa.svg)
-
 ## For Turkish Customers
 
 Our worldwide customers can purchase Dictater for **50 ₺**.
 
 ### [**Buy Now!**](https://www.shopier.com/ShowProductNew/products.php?id=1398103)
+
+---
+![Mastercard](https://iyzi.link/images/mastercard.svg)![Visa](https://iyzi.link/images/visa.svg)
