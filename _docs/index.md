@@ -32,6 +32,6 @@ You can get detailed information about Dictater from this section and download i
 5. **Internet connection:**   Required for speech recognition. Except CMU Sphinx.
 
 ### Pricing:
-  For more information about the price, [visit the price page.](https://muhammeteminturgut.github.io/dictater-website/docs/pricing/)
+  For more information about the price, [visit the price page.](http://dictater.me/docs/pricing/)
 ### Download:
-To download the Dictater, [visit the download page.](https://muhammeteminturgut.github.io/dictater-website/docs/download/)
+To download the Dictater, [visit the download page.](http://dictater.me/docs/download/)
