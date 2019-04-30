@@ -15,5 +15,4 @@ Our worldwide customers can purchase Dictater for **$ 40***.
 
 Our worldwide customers can purchase Dictater for **50 ₺**.
 
-### [**Buy Now!**](shopier.com/1398103)
-
+### [**Buy Now!**](https://www.shopier.com/ShowProductNew/products.php?id=1398103)
