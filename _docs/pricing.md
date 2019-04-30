@@ -1,4 +1,3 @@
-
 ---
 title: Pricing
 permalink: /docs/pricing/
