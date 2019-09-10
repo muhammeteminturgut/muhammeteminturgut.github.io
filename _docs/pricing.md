@@ -17,4 +17,4 @@ Our Turkish customers can purchase Dictater for **25 ₺**.
 ---
 
 |![American Express](https://iyzi.link/images/amex.svg)|![Mastercard](https://iyzi.link/images/mastercard.svg)|![Visa](https://iyzi.link/images/visa.svg)|![Troy](https://iyzi.link/images/troy.svg)|
-|:-:|---|---|---|
+|---|---|---|---|
