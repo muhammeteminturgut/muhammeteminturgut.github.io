@@ -4,8 +4,9 @@
   - pricing
   - download
 
-- title: Examples
+- title: Help
   docs:
+  - help
   - cheatsheet
   - font-awesome
   - bootstrap
