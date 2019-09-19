@@ -4,8 +4,6 @@ permalink: /docs/unanticipatedhosterror/
 description: Errno -9999 Unanticipated host error
 ---
 
-## Errno -9999 Unanticipated host error
-
 There are a few solutions if you are getting this problem. 
 
 Make sure your antivirus allows microphone access. 
