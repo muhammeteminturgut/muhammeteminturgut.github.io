@@ -10,8 +10,10 @@ You can get detailed information about Dictater from this section and download i
 ### Details:
 * Dictater is a program that contains various voice recognition engines. List of supported voice recognition engines:
    -   [Google Cloud Speech API](https://cloud.google.com/speech/) (Supports up to 120 languages)
-   -  [Microsoft Bing Voice Recognition](https://www.microsoft.com/cognitive-services/en-us/speech-api) (will be added into stable version)
-   - [CMU Sphinx (For offline recognition)](http://cmusphinx.sourceforge.net/wiki/) (will be added into stable version)
+   -  [Microsoft Bing Voice Recognition](https://www.microsoft.com/cognitive-services/en-us/speech-api) (Supports up to 29 languages)
+   - [Wit.ai (Free)](https://wit.ai/) (Supports up to 137 language)
+   - [IBM Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+   - [Houndify](https://www.houndify.com/)
   
 * Dictater runs on many operating systems. List of supported operating systems:
   - Windows Vista / 7 / 8 / 8.1 / 10
