@@ -4,7 +4,7 @@ permalink: /docs/download/
 ---
 
 ### Windows:
-### [Download Dictater v1.1.6](https://github.com/muhammeteminturgut/Dictater/releases/download/v1.1.6/DictaterSetup.exe)
+### [Download Dictater v1.1.8](https://github.com/muhammeteminturgut/Dictater/releases/download/v1.1.8/DictaterSetup.exe)
 
 ### Linux:  
 ### [Download Dictater v1.1.3 Beta](https://github.com/muhammeteminturgut/Dictater/releases/download/v1.1.3/Dictater.1.1.3.tar.xz)
