@@ -18,5 +18,5 @@ tar xf Dictater_1.1.8.tar.xz
 cd Dictater_1.1.8
 sudo ./Dictater
 ```
-### Mac OS:
+### <i class="fa fa-apple" aria-hidden="true"></i> Mac OS:
 Not Ready.
