@@ -20,3 +20,5 @@ sudo ./Dictater
 ```
 ### Mac OS:
 Not Ready.
+
+<div class="fa-hover col-md-3 col-sm-4"><i class="fa fa-linux" aria-hidden="true"></i></div>
