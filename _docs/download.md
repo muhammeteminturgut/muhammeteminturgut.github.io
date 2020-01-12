@@ -20,3 +20,5 @@ sudo ./Dictater
 ```
 ### <i class="fa fa-apple" aria-hidden="true"></i> Mac OS:
 Not Ready.
+
+Note: Pocketsphix engine only supports Linux for now.
