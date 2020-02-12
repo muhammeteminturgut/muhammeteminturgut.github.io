@@ -3,16 +3,18 @@ title: Pricing
 permalink: /docs/pricing/
 ---
 
-## For Worldwide Customers
+## For Worldwide Customers ~**$ 89.95**~
 Our worldwide customers can purchase Dictater for **$ 25**.
+
 
 ### [**Buy Now!**](https://iyzi.link/AAqZ_g)
 
-## For Turkish Customers
+## For Turkish Customers ~**₺ 89.95**~
 
 Our Turkish customers can purchase Dictater for **25 ₺**.
 
 ### [**Buy Now!**](https://www.shopier.com/ShowProductNew/products.php?id=1398103)
+* Sale ends on March 14, 2020
 ---
 
 ### <i class="fa fa-cc-visa" aria-hidden="true"></i> <i class="fa fa-cc-mastercard" aria-hidden="true"></i> <i class="fa fa-cc-amex" aria-hidden="true"></i>
