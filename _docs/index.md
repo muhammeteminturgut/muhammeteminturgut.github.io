@@ -18,7 +18,7 @@ You can get detailed information about Dictater from this section and download i
 * Dictater runs on many operating systems. List of supported operating systems:
   - Windows Vista / 7 / 8 / 8.1 / 10
   - Linux (Ubuntu, Manjaro, OpenSUSE, Linux Mint, Pardus etc.)
-  - MacOS
+  - MacOS (Not Ready.)
  
  * Dictater is compatible with almost all programs. You can use Dictater wherever text can be written. List of tested programs:
    - All office programs (Microsoft Office, LibreOffice, WPS Office etc.)
