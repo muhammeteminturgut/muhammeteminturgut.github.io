@@ -10,7 +10,7 @@ permalink: /docs/download/
 ### [Download Dictater v2.0.2](https://github.com/muhammeteminturgut/Dictater/releases/download/v2.0.2/Dictater_2.0.2.tar.xz)
 Linux Installation Instructions:
 
-Download Dictater_1.1.10.tar.xz
+Download Dictater_2.0.2.tar.xz
 
 Enter the following bash commands to the terminal:
 ```
