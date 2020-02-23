@@ -3,6 +3,7 @@ title: Language Settings
 permalink: /docs/languagesettings/
 description: Language Settings
 ---
+![alt text](https://raw.githubusercontent.com/muhammeteminturgut/muhammeteminturgut.github.io/master/img/genSettings.png "General Settings")
 
 If you use Google or Bing speech recognition. You can change UI or recognizing language under Settings > General Settings > Language Settings
 
